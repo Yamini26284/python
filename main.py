@@ -8,6 +8,6 @@ print("[bold red]rich is a popular, open-source Python library used to make your
 # Python treats every input from the input() function strictly as a string.
 # Even if a user types a whole number like 42, a decimal like 9.99, or a boolean value like True, Python captures it with quotes wrapped around it (e.g., "42")
 
-u=input("hey rama, hows the josh??")
+#u=input("hey rama, hows the josh??")
 #print("I'm",u)
-print(int(u) + 23)
+print(ord('0'))
