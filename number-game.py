@@ -20,4 +20,3 @@ while True :
         print("your value is higher.") 
     else :
         print("your value is lower")
-
